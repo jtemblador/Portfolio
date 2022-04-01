@@ -1,4 +1,3 @@
-# Portfolio
-Projects/Resume/Transcripts
+# Sudoku
 
 ![](sudoku.gif)
