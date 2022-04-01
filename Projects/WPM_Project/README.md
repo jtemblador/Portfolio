@@ -1,4 +1,3 @@
-# Portfolio
-Projects/Resume/Transcripts
+# Words Per-Minute game
 
 ![](WPM.gif)
