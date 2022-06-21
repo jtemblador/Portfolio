@@ -1,3 +1,0 @@
-# Sudoku
-
-![](sudoku.gif)
