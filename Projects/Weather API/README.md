@@ -1,3 +1,0 @@
-# Weather API
-
-![](weather.gif)

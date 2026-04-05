@@ -1,3 +1,0 @@
-# Blackjack
-
-![](blackjack.gif)
